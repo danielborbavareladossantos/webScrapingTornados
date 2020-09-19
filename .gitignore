@@ -1,0 +1,5 @@
+node_modules
+bkp
+tornados.json
+tornados.txt
+yarn.lock

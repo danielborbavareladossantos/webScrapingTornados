@@ -1,0 +1,14 @@
+{
+  "name": "webscraping",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon start"
+  },
+  "dependencies": {
+    "chromedriver": "^85.0.4",
+    "geckodriver": "^1.16.2",
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  }
+}
